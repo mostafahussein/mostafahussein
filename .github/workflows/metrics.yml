@@ -17,7 +17,7 @@ jobs:
           plugin_stackoverflow: yes
           plugin_stackoverflow_user: 2336650
           plugin_stackoverflow_sections: answers-top
-          plugin_stackoverflow_limit: 2
+          plugin_stackoverflow_limit: 0
 
   achievements:
     runs-on: ubuntu-latest
