@@ -27,8 +27,8 @@
 <a href="https://github.com/mostafahussein">
     <img align="center" width="49%" src="./achievements.svg" />
 </a>
-<a href="https://github.com/mostafahussein">
-    <img align="center" width="98%" src="./medium.svg" />
+<a href="https://medium.com/@mostafahussein">
+    <img align="center" width="49%" src="./medium.svg" />
 </a>
 
 <!--
