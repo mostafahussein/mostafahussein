@@ -5,7 +5,9 @@
 <a href="https://github.com/mostafahussein">
   <img align="center" width="49%" src="./stackoverflow.svg" />
 </a>
-<br/>
+<a href="https://medium.com/@mostafahussein">
+    <img align="center" width="49%" src="./medium.svg" />
+</a>
 <a href="https://github.com/mostafahussein">
   <img align="center" width="49%" src="./repositories.svg" />
 </a>
@@ -26,9 +28,6 @@
 </a>
 <a href="https://github.com/mostafahussein">
     <img align="center" width="49%" src="./achievements.svg" />
-</a>
-<a href="https://medium.com/@mostafahussein">
-    <img align="center" width="49%" src="./medium.svg" />
 </a>
 
 <!--
