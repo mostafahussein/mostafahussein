@@ -27,6 +27,9 @@
 <a href="https://github.com/mostafahussein">
     <img align="center" width="49%" src="./achievements.svg" />
 </a>
+<a href="https://github.com/mostafahussein">
+    <img align="center" width="98%" src="./medium.svg" />
+</a>
 
 <!--
 **mostafahussein/mostafahussein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

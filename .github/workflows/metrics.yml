@@ -18,6 +18,17 @@ jobs:
           plugin_stackoverflow_user: 2336650
           plugin_stackoverflow_sections: answers-top
           plugin_stackoverflow_limit: 0
+  medium:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: medium.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_rss: yes
+          plugin_rss_source: https://medium.com/feed/@mostafahussein
+          plugin_rss_limit: 5
 
   achievements:
     runs-on: ubuntu-latest
