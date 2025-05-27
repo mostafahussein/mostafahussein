@@ -33,7 +33,7 @@ jobs:
   achievements:
     runs-on: ubuntu-latest
     steps:
-      - uses: stalomeow/metrics@projects-v2
+      - uses: gh-metrics/metrics@master
         with:
           filename: achievements.svg
           token: ${{ secrets.METRICS_SECRET }}
