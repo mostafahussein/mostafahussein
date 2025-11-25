@@ -22,6 +22,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: gh-metrics/metrics@master
+        env:
+          METRICES_USE_PREBUILT_IMAGE: false
         with:
           filename: medium.svg
           token: NOT_NEEDED
