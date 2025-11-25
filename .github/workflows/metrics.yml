@@ -29,6 +29,7 @@ jobs:
           plugin_rss: yes
           plugin_rss_source: https://medium.com/feed/@mostafahussein
           plugin_rss_limit: 10
+          use_prebuilt_image: no
 
   achievements:
     runs-on: ubuntu-latest
