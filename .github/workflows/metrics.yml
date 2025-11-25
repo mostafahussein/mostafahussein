@@ -21,7 +21,7 @@ jobs:
   medium:
     runs-on: ubuntu-latest
     steps:
-      - uses: gh-metrics/metrics@bf6d7fd343dfbe6783d5e51d0fad58c9f6b510fa
+      - uses: mostafahussein/metrics@fix-rss-plugin
         with:
           filename: medium.svg
           token: NOT_NEEDED
