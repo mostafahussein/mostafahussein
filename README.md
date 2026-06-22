@@ -1,33 +1,35 @@
 <a href="#">
-  <img align="center" width="49%" src="./header.svg" />
+  <img align="top" width="49%" src="./header.svg" />
+</a>
+<a href="#">
+  <img align="top" width="49%" src="./linkedin.svg" />
 </a>
 <br/>
 <a href="https://stackoverflow.com/users/2336650/mostafa-hussein?tab=profile">
-  <img align="center" width="49%" src="./stackoverflow.svg" />
+  <img align="top" width="49%" src="./stackoverflow.svg" />
 </a>
 <a href="https://medium.com/@mostafahussein">
-    <img align="center" width="49%" src="./medium.svg" />
+    <img align="top" width="49%" src="./medium.svg" />
 </a>
 <a href="#">
-  <img align="center" width="49%" src="./repositories.svg" />
+  <img align="top" width="49%" src="./repositories.svg" />
 </a>
 <a href="#">
-  <img align="center" width="49%" src="./acti_comm.svg" />
-</a>
-
-<a href="#">
-  <img align="center" width="49%" src="./iso_calender.svg" />
+  <img align="top" width="49%" src="./acti_comm.svg" />
 </a>
 
 <a href="#">
-    <img align="center" width="49%" src="./issue_pr_lang.svg" />
+  <img align="top" width="49%" src="./iso_calender.svg" />
+</a>
+<a href="#">
+    <img align="top" width="49%" src="./issue_pr_lang.svg" />
 </a>
 
 <a href="#">
-  <img align="center" width="49%" src="./github-habits.svg" />
+  <img align="top" width="49%" src="./github-habits.svg" />
 </a>
 <a href="#">
-    <img align="center" width="49%" src="./achievements.svg" />
+    <img align="top" width="49%" src="./achievements.svg" />
 </a>
 
 <!--
